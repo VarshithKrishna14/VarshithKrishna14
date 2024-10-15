@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshithkrishna14" alt="varshithkrishna14" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/varshithkk" target="blank"><img src="https://img.shields.io/twitter/follow/varshithkk?logo=twitter&style=for-the-badge" alt="varshithkk" /></a> </p>
-
 - 🔭 I’m currently working on **Domain Specific chatbot for SME's**
 
 - 👯 I’m looking to collaborate on ****Open-source AI Projects** - I'm particularly interested in collaborating on AI-driven platforms, functional programming-based systems, or innovative SaaS platforms. - You can reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/varshithkrishna)**
 
-- 👨‍💻 All of my projects are available at [https://varshithkrishna14.github.io/landing-page/](https://varshithkrishna14.github.io/landing-page/)
-
 - 📝 I regularly write articles on [I am working on setting up my blog where I'll write about **AI, full-stack development, and competitive programming**.](I am working on setting up my blog where I'll write about **AI, full-stack development, and competitive programming**.)
 
 - 📫 How to reach me **Email: varshithkrishnakyatham@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NjK40B5if3TYrce87w56bHdvoozCZ0Fv/view](https://drive.google.com/file/d/1NjK40B5if3TYrce87w56bHdvoozCZ0Fv/view)
 
 - ⚡ Fun fact **I love watching F1**
 
