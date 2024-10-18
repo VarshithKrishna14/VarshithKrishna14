@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varshith Krishna Kyatham</h1>
 <h3 align="center">Passionate Full Stack Developer | AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshithkrishna14&label=Profile%20views&color=0e75b6&style=flat" alt="varshithkrishna14" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshithkrishna14" alt="varshithkrishna14" /></a> </p>
-
 - 🔭 I’m currently working on **Domain Specific chatbot for SME's**
 
 - 👯 I’m looking to collaborate on ****Open-source AI Projects** - I'm particularly interested in collaborating on AI-driven platforms, functional programming-based systems, or innovative SaaS platforms. - You can reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/varshithkrishna)**
