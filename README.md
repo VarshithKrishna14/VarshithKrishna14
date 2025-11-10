@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varshith/h1>
+<h1 align="center">Hi 👋, I'm Varshith /h1>
 <h3 align="center">Passionate Full Stack Developer | AI Enthusiast</h3>
 
 - 👯 I’m looking to collaborate on ****Open-source AI Projects** - I'm particularly interested in collaborating on AI-driven platforms, functional programming-based systems, or innovative SaaS platforms.**
