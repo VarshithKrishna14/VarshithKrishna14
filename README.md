@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Varshith Krishna Kyatham</h1>
+<h1 align="center">Hi 👋, I'm Varshith/h1>
 <h3 align="center">Passionate Full Stack Developer | AI Enthusiast</h3>
 
-- 👯 I’m looking to collaborate on ****Open-source AI Projects** - I'm particularly interested in collaborating on AI-driven platforms, functional programming-based systems, or innovative SaaS platforms. - You can reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/varshithkrishna)**
+- 👯 I’m looking to collaborate on ****Open-source AI Projects** - I'm particularly interested in collaborating on AI-driven platforms, functional programming-based systems, or innovative SaaS platforms.**
 
 - 📝 I regularly write articles on [I am working on setting up my blog where I'll write about **AI, full-stack development, and competitive programming**.](I am working on setting up my blog where I'll write about **AI, full-stack development, and competitive programming**.)
-
-- 📫 How to reach me **Email: varshithkrishnakyatham@gmail.com**
-
-- ⚡ Fun fact **I love watching F1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
